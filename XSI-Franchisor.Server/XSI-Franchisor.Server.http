@@ -1,0 +1,6 @@
+@XSI_Franchisor.Server_HostAddress = http://localhost:5103
+
+GET {{XSI_Franchisor.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
