@@ -1,0 +1,78 @@
+/* General Styling */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Login Container */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Card Styling */
+.login-card {
+  width: 360px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background: #ffffff;
+}
+
+/* Logo */
+.logo-container {
+  margin-bottom: 15px;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* Title */
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 10px 0 20px;
+  color: #333;
+}
+
+/* Full-width input fields */
+.full-width {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* Remember me */
+.remember-me {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+/* Login Button */
+.login-btn {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 1rem;
+}
+
+/* Footer */
+.footer {
+  margin-top: 20px;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.footer a {
+  color: #0078d4;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}

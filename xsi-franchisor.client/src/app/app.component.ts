@@ -33,5 +33,5 @@ export class AppComponent implements OnInit {
     );
   }
 
-  title = 'xsi-franchisor.client';
+  title = 'XSI-Franchisor';
 }
